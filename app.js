@@ -12,5 +12,6 @@ var numirochki = [
     [7, 8, 9],
 ]
 
--
+numirochki[3] = [10, 11, 12]
+
 
